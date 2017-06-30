@@ -1,0 +1,67 @@
+#fristående{
+	width: 195px;
+	height: auto;
+}
+
+#bom{
+width: 190px;
+height: auto;
+}
+
+#barr{
+width: 188px;
+height:auto;
+}
+
+h2{
+text-align: center;
+}
+
+h1{
+text-align: center;
+}
+
+p{
+text-align: center;
+}
+
+#start{
+display: block;
+margin: auto;
+}
+
+#hopp{
+width: 220px;
+height: auto;
+}
+
+#trupp{
+display: block;
+margin: auto;
+}
+
+body {
+    background-color: #ffc1d7;
+    }
+
+    h5{
+    	margin-right: 20%;
+    	margin-left: 20%;
+    }
+
+    p{
+    margin-left: 20%;
+    margin-right: 20%;
+    }
+
+ #aerobic{
+ width: 240px;
+height: auto;
+display: block;
+margin: auto;
+    }
+
+    h2{
+font-family: Fira Sans;
+
+    }
